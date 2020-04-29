@@ -2,7 +2,7 @@
 clc
 clear all
 close all
-%diary('trapezoidal_rule.txt')
+diary('trapezoidal_rule.txt')
 syms x;
 a=input('Enter the value of lower limit of the intergration a: ');
 b=input('Enter the value of upper limit of the intergration b: ');
@@ -18,4 +18,4 @@ for i=1:n-1
 end
 fprintf('the result of this integral is: ');
 disp(result);
-%dairy('off')
+dairy('off')
