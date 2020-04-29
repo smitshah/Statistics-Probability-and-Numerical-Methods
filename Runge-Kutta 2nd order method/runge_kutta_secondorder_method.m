@@ -3,7 +3,7 @@ clc
 clear all
 close all
 diary('runge_kutta_secondorder_method.txt')
-disp(sprintf('Name: Smit Shah PRN: 17070123090 Batch: EB-2'));
+
 syms x y;
 % f=y-x  x0=0  y0=2  h=0.1  xn=0.1,0.2
 x0=input('Enter the initial value x: ');
