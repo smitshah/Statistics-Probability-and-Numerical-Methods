@@ -3,7 +3,7 @@ clc
 clear all
 close all
 diary('Lagrange_Interpolation.txt');
-disp(sprintf('Name: Smit Shah PRN: 17070123090 Batch: EB-2'));
+
 % x=[0 1 2 5]   y=[2 3 12 147]  x_reqd=3
 n=input('Number of data point=');
 x=input('Enter a value of x=');
