@@ -2,7 +2,7 @@
 clc
 clear all
 close all
-diary('modified_euler_method.txt')
+diary('euler_modified_method.txt')
 syms x y;
 %f=x^2+y  x0=0  y0=1  h=0.01  xn=0.02
 x0=input('Enter the initial value x: ');
