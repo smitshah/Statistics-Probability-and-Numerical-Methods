@@ -1,5 +1,5 @@
-print("Exp No.: 11_Binomial")
-print("Name: Smit Shah      PRN: 17070123090       Batch: EB-2")
+print("Binomial_distribution")
+
 #p(x=4)
 dbinom(x=4,size=20,prob=1/6)
 #p(x<=4)
