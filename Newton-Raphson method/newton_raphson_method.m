@@ -2,7 +2,8 @@
 clc
 clear all
 close all
-disp(sprintf('Name: Smit Shah PRN: 17070123090 Batch: EB-2'));
+diary('Newton_Raphson_Method.txt');
+
 %f=@(x) x^4-x-10
 syms x;
 f=input('Enter the function: ', 's');
@@ -28,3 +29,4 @@ while err>tol
 end
 t=sprintf('\n the required root is:  %1.8f', x);
 disp(t)
+diary ('off');
