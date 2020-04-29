@@ -3,7 +3,7 @@ clc
 clear all
 close all
 diary('Newton_Forward_Interpolation.txt');
-disp(sprintf('Name: Smit Shah PRN: 17070123090 Batch: EB-2'));
+
 % x=[140 150 160 170 180]   y=[3.685 4.854 6.302 8.076 10.225]  h=10  n=5
 n=input('Enter the number of data ponits: ');
 h=input('Enter the step size h: ');
