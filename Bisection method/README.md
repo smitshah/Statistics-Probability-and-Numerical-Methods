@@ -1,1 +1,1 @@
-# Roots of algebraic equations using Bisection method.
+# Write a MATLAB code to find roots of algebraic equations using Bisection method.
