@@ -1,1 +1,1 @@
-# Write a Matlab script for Interpolation formulae
+# Write a Matlab script for Lagranges Interpolation
