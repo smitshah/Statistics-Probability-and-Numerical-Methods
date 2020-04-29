@@ -3,7 +3,7 @@ clc
 clear all
 close all
 diary('Regula_Falsi_Method.txt');
-disp(sprintf('Name: Smit Shah PRN: 17070123090 Batch: EB-2'));
+
 %f=@(x) x^3-9*x+1
 f=input('Enter the function: ', 's');
 f=inline(f);
