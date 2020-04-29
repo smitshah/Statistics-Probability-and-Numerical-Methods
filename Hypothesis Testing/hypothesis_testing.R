@@ -1,5 +1,5 @@
-print("Exp No.: 10")
-print("Name: Smit Shah      PRN: 17070123090       Batch: EB-2")
+print("hypothesis_testing")
+
 d=seq(1,20, by=1)
 d
 m=mean(d)
