@@ -1,5 +1,5 @@
-print("Exp No.: 7")
-print("Name: Smit Shah     PRN: 17070123090    Batch: EB-2")
+print("mean_median_mode_sd")
+
 x<-c(1,2,3,4,5,6)
 x
 length(x)
