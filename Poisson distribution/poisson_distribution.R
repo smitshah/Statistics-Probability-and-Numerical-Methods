@@ -1,5 +1,5 @@
-print("Exp No.: 11_Poisson")
-print("Name: Smit Shah      PRN: 17070123090       Batch: EB-2")
+print("Poisson_distribution")
+
 #p(x=3)
 dpois(x=3,lambda=8)
 #p(x<=3)
