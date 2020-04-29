@@ -1,5 +1,5 @@
-print("Exp No.: 11_Normal")
-print("Name: Smit Shah      PRN: 17070123090       Batch: EB-2")
+print("Normal_distribution")
+
 #p(x=4)
 dnorm(x=4,mean=14,sd=2.5)
 #p(x<=4)
