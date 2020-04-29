@@ -1,0 +1,27 @@
+print("Exp No.: 7")
+print("Name: Smit Shah     PRN: 17070123090    Batch: EB-2")
+x<-c(1,2,3,4,5,6)
+x
+length(x)
+mean(x)
+median(x)
+a=c(1,2,3,4,1,5,16,1,5,7,8,92,3,56,1,5,9,1,8,17,5)
+temp=table(a)
+temp
+names(temp)[temp==max(temp)]
+sd(x)
+f<-c(5,6,9,2,8,14)
+f
+fx=f*x
+fx
+me=sum(fx)/sum(f)
+me
+a1=mean(x)
+a1
+x1=x-a1
+x1
+x2=x1^2
+x2
+fx1=f*x2
+fx1
+sqrt(sum(fx1)/sum(f))
