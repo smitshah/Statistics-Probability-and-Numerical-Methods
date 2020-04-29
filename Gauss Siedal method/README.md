@@ -1,1 +1,1 @@
-# Solve system of simultaneous equations using Gauss Siedal method
+# Write a MATLAB program to solve system of simultaneous equations using Gauss Siedal method
